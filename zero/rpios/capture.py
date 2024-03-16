@@ -79,4 +79,4 @@ def capture_jpg(output_filename="cap_jpg", folderin=True):
 
 
 if __name__ == "__main__":
-    capture_dng_jpg(file.get_name())
+    capture_jpg(file.get_name())
